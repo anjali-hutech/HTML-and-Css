@@ -1,0 +1,9 @@
+html
+  head
+    titleSeerBit Simple Checkouttitle
+    script src=httpscheckout.seerbitapi.comapiv2seerbit.jsscript
+  head
+  body
+    button onlick=paywithSeerbit()Pay Nowbutton
+  body
+html

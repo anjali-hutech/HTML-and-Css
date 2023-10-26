@@ -1,0 +1,16 @@
+*{
+    color:beige;
+}
+
+body{
+    background-image: url('images/pexels-pixabay-531880.jpg');
+}
+h2{
+    color:rgb(188, 180, 180);
+}
+ul li{
+    /* padding-left: 10% 10%; */
+    list-style: none;
+    display: inline-block;
+    justify-content: space-between;
+}

@@ -1,0 +1,16 @@
+.icon{
+    width:20px;
+    height:20px;
+    float:left;
+    color:coral;
+}
+.menu{
+    width: 400px;
+    height:70px;
+    float:left;
+}
+ul{
+    float:left;
+    justify-content: center;
+    align-items: center;
+}
